@@ -1,8 +1,8 @@
 {
    "showTos": false,
    "OpenTok":{
-      "apiKey": "<key>",
-      "apiSecret": "<secret>"
+      "apiKey": "46715392",
+      "apiSecret": "1854b8571cabab9a622e82bdc8b015d373b73d1b"
    },
    "Firebase":{
       "dataUrl":"<firebase_url>",
